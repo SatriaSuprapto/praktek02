@@ -5,6 +5,13 @@ public class persegi {
     
     double sisi1;
     double sisi2;
+
+    public persegi() {
+        sisi1 = 8;
+        sisi2 = 8;
+              
+    }
+    
     
     void cetakinfo(){
         
