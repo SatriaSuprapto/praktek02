@@ -3,7 +3,8 @@ package praktek02;
 
 public class persegiaksi {
     public static void main(String[] args) {
-        Persegi rl = new Persegi();
-        
+        persegi rl = new persegi();
+        rl.sisi1 = 4;
+        rl.sisi2 = 4;
     }
 }
