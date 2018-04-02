@@ -9,5 +9,6 @@ public class persegiaksi {
         
         rl.cetakinfo();
         System.out.println("Luas persegi = "+rl.hitungLuas());
+        rl.cetakLuas();
     }
 }

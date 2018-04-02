@@ -27,5 +27,9 @@ public class persegi {
         luas=sisi1*sisi2;
         return luas;
     }
+        void cetakLuas(){
+        System.out.println("Luasnya adalah:" +hitungLuas());
+        
+    }
     
 }
