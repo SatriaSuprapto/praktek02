@@ -11,6 +11,11 @@ public class persegi {
         sisi2 = 8;
               
     }
+
+    public persegi(double sisi1, double sisi2) {
+        this.sisi1 = sisi1;
+        this.sisi2 = sisi2;
+    }
     
     
     void cetakinfo(){
