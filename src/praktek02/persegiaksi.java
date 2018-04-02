@@ -6,5 +6,7 @@ public class persegiaksi {
         persegi rl = new persegi();
         rl.sisi1 = 4;
         rl.sisi2 = 4;
+        
+        rl.cetakinfo();
     }
 }

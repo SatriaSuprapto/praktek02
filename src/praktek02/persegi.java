@@ -6,7 +6,7 @@ public class persegi {
     double sisi1;
     double sisi2;
     
-    void.cetakinfo(){
+    void cetakinfo(){
         
         System.out.println("==============");
         System.out.println("sisi1 :"+sisi1);
