@@ -8,5 +8,6 @@ public class persegiaksi {
         rl.sisi2 = 4;
         
         rl.cetakinfo();
+        System.out.println("Luas persegi = "+rl.hitungLuas());
     }
 }

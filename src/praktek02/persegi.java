@@ -15,4 +15,10 @@ public class persegi {
         
     }
     
+    double hitungLuas(){
+        double luas;
+        luas=sisi1*sisi2;
+        return luas;
+    }
+    
 }
